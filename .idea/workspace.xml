@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../python_develop/day8/homework/socket_ftp_client/bin/main.py" line="117" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84646824-72f7-403c-9d9f-b5bf747366bf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python develop" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/day5/hashlib_hmac.py" />
+        <option value="$PROJECT_DIR$/day5/re_module.py" />
+        <option value="$PROJECT_DIR$/day5/homework/ReadMe" />
+        <option value="$PROJECT_DIR$/day5/homework/math.py" />
+        <option value="$PROJECT_DIR$/day5/homework/oldboy_calculator.py" />
+        <option value="$PROJECT_DIR$/day5/homework/mian.py" />
+        <option value="$PROJECT_DIR$/day6/继承.py" />
+        <option value="$PROJECT_DIR$/day6/继承_学校.py" />
+        <option value="$PROJECT_DIR$/day6/多态.py" />
+        <option value="$PROJECT_DIR$/day6/homework/choose_course/core/member.py" />
+        <option value="$PROJECT_DIR$/day6/homework/choose_course/core/class.py" />
+        <option value="$PROJECT_DIR$/day5/shelve_module.py" />
+        <option value="$PROJECT_DIR$/day6/homework/ReadMe" />
+        <option value="$PROJECT_DIR$/day6/homework/choose_course/core/course.py" />
+        <option value="$PROJECT_DIR$/day6/homework/choose_course/core/make_pickle.py" />
+        <option value="$PROJECT_DIR$/day6/homework/choose_course/core/classse.py" />
+        <option value="$PROJECT_DIR$/day6/homework/choose_course/db/class.py" />
+        <option value="$PROJECT_DIR$/day6/homework/choose_course/core/student.py" />
+        <option value="$PROJECT_DIR$/day6/homework/choose_course/core/school.py" />
+        <option value="$PROJECT_DIR$/day6/homework/choose_course/core/main.py" />
+        <option value="$PROJECT_DIR$/day6/homework/choose_course/core/teacher.py" />
+        <option value="$PROJECT_DIR$/day6/homework/choose_course/bin/main.py" />
+        <option value="$PROJECT_DIR$/day6/homework/school_system/bin/main.py" />
+        <option value="$PROJECT_DIR$/day6/homework/school_system/core/student.py" />
+        <option value="$PROJECT_DIR$/day6/homework/school_system/core/teacher.py" />
+        <option value="$PROJECT_DIR$/day6/homework/school_system/core/school.py" />
+        <option value="$PROJECT_DIR$/day6/cs.py" />
+        <option value="$PROJECT_DIR$/day7/类的特殊成员方法.py" />
+        <option value="$PROJECT_DIR$/day7/静态方法.py" />
+        <option value="$PROJECT_DIR$/day7/type构造类.py" />
+        <option value="$PROJECT_DIR$/day7/反射.py" />
+        <option value="$PROJECT_DIR$/day7/异常处理.py" />
+        <option value="$PROJECT_DIR$/day7/自定异常.py" />
+        <option value="$PROJECT_DIR$/day7/socket——client.py" />
+        <option value="$PROJECT_DIR$/day7/socket_server.py" />
+        <option value="$PROJECT_DIR$/day7/动态导入模块.py" />
+        <option value="$PROJECT_DIR$/day8/socket_ssh_client.py" />
+        <option value="$PROJECT_DIR$/day8/socket_ssh_server.py" />
+        <option value="$PROJECT_DIR$/day8/socket_ftp_server.py" />
+        <option value="$PROJECT_DIR$/day8/socket_ftp_client.py" />
+        <option value="$PROJECT_DIR$/day8/socket_tps_server.py" />
+        <option value="$PROJECT_DIR$/day7/socket_client.py" />
+        <option value="$PROJECT_DIR$/day8/homework/ReadMe" />
+        <option value="$PROJECT_DIR$/day8/homework/userfile.py" />
+        <option value="$PROJECT_DIR$/day8/homework/socket_ftp_client/data.py" />
+        <option value="$PROJECT_DIR$/day8/homework/socke_ftp_server/userfile/haha/userinfo" />
+        <option value="$PROJECT_DIR$/day8/homework/socke_ftp_server/userfile/enen/userinfo" />
+        <option value="$PROJECT_DIR$/day8/homework/socke_ftp_server/bin/mian.py" />
+        <option value="$PROJECT_DIR$/day8/homework/socket_ftp_client/bin/main.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/../python_develop/day8/homework/socket_ftp_client/bin/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-90" />
+    <option name="y" value="23" />
+    <option name="width" value="1363" />
+    <option name="height" value="706" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python develop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_develop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="python develop" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\test\pycharm\file\python develop" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="python develop" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\test\pycharm\file\python develop" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="day2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\test\pycharm\file\python develop\day8\homework\socket_ftp_client\data" />
+      <recent name="E:\test\pycharm\file\python develop\day8\homework\socket_ftp_client" />
+      <recent name="E:\test\pycharm\file\python develop\day6\homework" />
+      <recent name="E:\test\pycharm\file\python develop\day5" />
+      <recent name="E:\test\pycharm\file\python develop\day4\homework\Atm\db\accounts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\test\pycharm\file\python develop\day6\homework\choose_course\bin" />
+      <recent name="E:\test\pycharm\file\python develop\day6\homework\choose_course\docs" />
+      <recent name="E:\test\pycharm\file\python develop\day5\copy_file" />
+      <recent name="E:\test\pycharm\file\python develop\day5\module" />
+      <recent name="E:\test\pycharm\file\python develop\day4\homework\shopping_mall\core" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test (1)">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="python_develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="python_develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="python_develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="类的特殊成员方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7/类的特殊成员方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多态" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day6/多态.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多态" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day6/多态.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="python_develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day8/homework/socket_ftp_client/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day8/homework/socket_ftp_client/bin/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mian" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day8/homework/socke_ftp_server/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day8/homework/socke_ftp_server/bin/mian.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="socket_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7/socket_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python_develop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python_develop/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="python_develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="python_develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="python_develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="python_develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.mian" />
+        <item itemvalue="Python.socket_client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84646824-72f7-403c-9d9f-b5bf747366bf" name="Default Changelist" comment="" />
+      <created>1564566282797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564566282797</updated>
+      <workItem from="1564566293277" duration="4589000" />
+      <workItem from="1564621822165" duration="38504000" />
+      <workItem from="1564795808378" duration="26465000" />
+      <workItem from="1564885787852" duration="10654000" />
+      <workItem from="1564930549142" duration="3029000" />
+      <workItem from="1565161739218" duration="13417000" />
+      <workItem from="1565175613041" duration="1220000" />
+      <workItem from="1565250084455" duration="12997000" />
+      <workItem from="1565335467419" duration="6290000" />
+      <workItem from="1565402825567" duration="18440000" />
+      <workItem from="1565494013058" duration="8053000" />
+      <workItem from="1565577580338" duration="15598000" />
+      <workItem from="1565691469026" duration="1346000" />
+      <workItem from="1565750416898" duration="23458000" />
+      <workItem from="1565835070937" duration="25439000" />
+      <workItem from="1565925011851" duration="21885000" />
+      <workItem from="1566097220052" duration="18296000" />
+      <workItem from="1566127191230" duration="11082000" />
+      <workItem from="1566184268639" duration="25619000" />
+      <workItem from="1566267911623" duration="15596000" />
+      <workItem from="1566356388747" duration="3204000" />
+      <workItem from="1566366200687" duration="2331000" />
+      <workItem from="1566374233973" duration="14563000" />
+      <workItem from="1566439507182" duration="46625000" />
+      <workItem from="1566525840019" duration="20375000" />
+      <workItem from="1566611312001" duration="4415000" />
+      <workItem from="1566719479603" duration="7459000" />
+      <workItem from="1566808863644" duration="10196000" />
+      <workItem from="1566880217193" duration="12740000" />
+      <workItem from="1566965369411" duration="7438000" />
+      <workItem from="1567045454674" duration="29156000" />
+      <workItem from="1567135759114" duration="14101000" />
+      <workItem from="1567174587762" duration="137000" />
+      <workItem from="1571238774878" duration="332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="475049000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49871466" visible="true" weight="0.15204236" />
+      <window_info id="Structure" order="1" sideWeight="0.5012854" side_tool="true" weight="0.11951589" />
+      <window_info id="Favorites" order="2" sideWeight="0.5012854" side_tool="true" weight="0.11951589" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3265306" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.30834752" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41666666" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.30612245" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32993197" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.40986395" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32993197" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day8/homework/socke_ftp_server/bin/mian.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_develop/day8/homework/socke_ftp_server/bin/mian.py</url>
+          <line>148</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_develop$write_xml.coverage" NAME="write_xml Coverage Results" MODIFIED="1566137228136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$main.coverage" NAME="main Coverage Results" MODIFIED="1567159492500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8/homework/socket_ftp_client/bin" />
+    <SUITE FILE_PATH="coverage/python_develop$if.coverage" NAME="if Coverage Results" MODIFIED="1564627795533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_develop$socket_client.coverage" NAME="socket_client Coverage Results" MODIFIED="1566989192818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7" />
+    <SUITE FILE_PATH="coverage/python_develop$socket_ssh_server.coverage" NAME="socket_ssh_server Coverage Results" MODIFIED="1566891447129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
+    <SUITE FILE_PATH="coverage/python_develop$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1571239011258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python_develop" />
+    <SUITE FILE_PATH="coverage/python_develop$socket_ssh_client.coverage" NAME="socket_ssh_client Coverage Results" MODIFIED="1566891448582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
+    <SUITE FILE_PATH="coverage/python_develop$shopping__1_.coverage" NAME="shopping (1) Coverage Results" MODIFIED="1565167441699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2/homework" />
+    <SUITE FILE_PATH="coverage/python_develop$read_config.coverage" NAME="read_config Coverage Results" MODIFIED="1566138693290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$socket_ftp_client.coverage" NAME="socket_ftp_client Coverage Results" MODIFIED="1566922215518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
+    <SUITE FILE_PATH="coverage/python_develop$school.coverage" NAME="school Coverage Results" MODIFIED="1566525936959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6/homework/choose_course/core" />
+    <SUITE FILE_PATH="coverage/python_develop$set_type.coverage" NAME="set_type Coverage Results" MODIFIED="1565254363907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/python_develop$os_module.coverage" NAME="os_module Coverage Results" MODIFIED="1566119372943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1566814266058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7" />
+    <SUITE FILE_PATH="coverage/python_develop$encode.coverage" NAME="encode Coverage Results" MODIFIED="1565402904898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/python_develop$hashlib_sha256.coverage" NAME="hashlib_sha256 Coverage Results" MODIFIED="1566141369116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$mian.coverage" NAME="mian Coverage Results" MODIFIED="1567159371124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8/homework/socke_ftp_server/bin" />
+    <SUITE FILE_PATH="coverage/python_develop$oldboy_calculator.coverage" NAME="oldboy_calculator Coverage Results" MODIFIED="1566284898017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5/homework" />
+    <SUITE FILE_PATH="coverage/python_develop$dict_type.coverage" NAME="dict_type Coverage Results" MODIFIED="1564847818060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/python_develop$shelve_module.coverage" NAME="shelve_module Coverage Results" MODIFIED="1566132222152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$sys_module.coverage" NAME="sys_module Coverage Results" MODIFIED="1566120192106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$student.coverage" NAME="student Coverage Results" MODIFIED="1566487711826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6/homework/choose_course/core" />
+    <SUITE FILE_PATH="coverage/python_develop$continue.coverage" NAME="continue Coverage Results" MODIFIED="1564934891733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/python_develop$shutil_module.coverage" NAME="shutil_module Coverage Results" MODIFIED="1566127656479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1565582290443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/python_develop$setting.coverage" NAME="setting Coverage Results" MODIFIED="1565784994154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4/homework/Atm/conf" />
+    <SUITE FILE_PATH="coverage/python_develop$buyer.coverage" NAME="buyer Coverage Results" MODIFIED="1565938681118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4/homework/shopping_mall/core" />
+    <SUITE FILE_PATH="coverage/python_develop$cs.coverage" NAME="cs Coverage Results" MODIFIED="1566305791810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6" />
+    <SUITE FILE_PATH="coverage/python_develop$choose_method.coverage" NAME="choose_method Coverage Results" MODIFIED="1565434887990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3/homework" />
+    <SUITE FILE_PATH="coverage/python_develop$operation_excel.coverage" NAME="operation_excel Coverage Results" MODIFIED="1565171034860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2/homework" />
+    <SUITE FILE_PATH="coverage/python_develop$xml_module.coverage" NAME="xml_module Coverage Results" MODIFIED="1566134271613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1566620333575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6/homework/school_system/bin" />
+    <SUITE FILE_PATH="coverage/python_develop$mod.coverage" NAME="mod Coverage Results" MODIFIED="1564731440103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/python_develop$.coverage" NAME="动态导入模块 Coverage Results" MODIFIED="1566824615276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7" />
+    <SUITE FILE_PATH="coverage/python_develop$sys.coverage" NAME="sys Coverage Results" MODIFIED="1564728993815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/python_develop$data_type.coverage" NAME="data_type Coverage Results" MODIFIED="1564758776362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/python_develop$homework2.coverage" NAME="homework2 Coverage Results" MODIFIED="1564644342442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1/homework" />
+    <SUITE FILE_PATH="coverage/python_develop$interaction.coverage" NAME="interaction Coverage Results" MODIFIED="1564586204019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/python_develop$file_type.coverage" NAME="file_type Coverage Results" MODIFIED="1565343797971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/python_develop$run.coverage" NAME="run Coverage Results" MODIFIED="1565435195301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3/homework" />
+    <SUITE FILE_PATH="coverage/python_develop$function.coverage" NAME="function Coverage Results" MODIFIED="1565404046276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/python_develop$configparser.coverage" NAME="configparser生成 Coverage Results" MODIFIED="1566137289654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$type.coverage" NAME="type构造类 Coverage Results" MODIFIED="1566575282510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7" />
+    <SUITE FILE_PATH="coverage/python_develop$test.coverage" NAME="test Coverage Results" MODIFIED="1567163806866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_develop$random_module.coverage" NAME="random_module Coverage Results" MODIFIED="1566101865964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$datetime.coverage" NAME="datetime Coverage Results" MODIFIED="1565973144749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$seller.coverage" NAME="seller Coverage Results" MODIFIED="1565172996716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2/homework" />
+    <SUITE FILE_PATH="coverage/python_develop$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1565162881818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2/shopping" />
+    <SUITE FILE_PATH="coverage/python_develop$hashlib_md5.coverage" NAME="hashlib_md5 Coverage Results" MODIFIED="1566141272527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$variables.coverage" NAME="variables Coverage Results" MODIFIED="1565406672647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/python_develop$login.coverage" NAME="login Coverage Results" MODIFIED="1565425643774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1/homework/homework2_code" />
+    <SUITE FILE_PATH="coverage/python_develop$re_module.coverage" NAME="re_module Coverage Results" MODIFIED="1566200864416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$_.coverage" NAME="继承_学校 Coverage Results" MODIFIED="1566375242120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6" />
+    <SUITE FILE_PATH="coverage/python_develop$logger.coverage" NAME="logger Coverage Results" MODIFIED="1565776930766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4/homework/Atm/core" />
+    <SUITE FILE_PATH="coverage/python_develop$socket_ftp_server.coverage" NAME="socket_ftp_server Coverage Results" MODIFIED="1566922214097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
+    <SUITE FILE_PATH="coverage/python_develop$str_type.coverage" NAME="str_type Coverage Results" MODIFIED="1564827844156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/python_develop$main_run.coverage" NAME="main_run Coverage Results" MODIFIED="1565946447571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4/homework/shopping_mall/core" />
+    <SUITE FILE_PATH="coverage/python_develop$passwd.coverage" NAME="passwd Coverage Results" MODIFIED="1564623300586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/python_develop$while_continue_input.coverage" NAME="while continue-input Coverage Results" MODIFIED="1564628863680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/python_develop$time_module.coverage" NAME="time_module Coverage Results" MODIFIED="1565971961158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$var.coverage" NAME="var Coverage Results" MODIFIED="1564584584401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/python_develop$socket_tps_server.coverage" NAME="socket_tps_server Coverage Results" MODIFIED="1566987306858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
+    <SUITE FILE_PATH="coverage/python_develop$three_menu.coverage" NAME="three_menu Coverage Results" MODIFIED="1564936206246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/python_develop$configparser_module.coverage" NAME="configparser_module Coverage Results" MODIFIED="1566139231738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_develop$for.coverage" NAME="for Coverage Results" MODIFIED="1564628812338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/python_develop$hashlib_hmac.coverage" NAME="hashlib_hmac Coverage Results" MODIFIED="1566141446420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>import re
+import functools
+
+
+def minus_operator_handler(formula):
+    '''处理一些特殊的减号运算'''
+    minus_operators = re.split(&quot;-&quot;, formula)
+    calc_list = re.findall(&quot;[0-9]&quot;, formula)
+    if minus_operators[0] == '':  # 第一值肯定是负号
+        calc_list[0] = '-%s' % calc_list[0]
+    res = functools.reduce(lambda x, y: float(x) - float(y), calc_list)
+    print(&quot;\033[33;1m减号[%s]处理结果:\033[0m&quot; % formula, res)
+    return res
+
+
+def remove_duplicates(formula):
+    formula = formula.replace(&quot;++&quot;, &quot;+&quot;)
+    formula = formula.replace(&quot;+-&quot;, &quot;-&quot;)
+    formula = formula.replace(&quot;-+&quot;, &quot;-&quot;)
+    formula = formula.replace(&quot;--&quot;, &quot;+&quot;)
+    formula = formula.replace(&quot;- -&quot;, &quot;+&quot;)
+    return formula
+
+
+def compute_mutiply_and_dividend(formula):
+    '''算乘除,传进来的是字符串噢'''
+    operators = re.findall(&quot;[*/]&quot;, formula)
+    calc_list = re.split(&quot;[*/]&quot;, formula)
+    res = None
+    for index, i in enumerate(calc_list):
+        if res:
+            if operators[index - 1] == &quot;*&quot;:
+                res *= float(i)
+            elif operators[index - 1] == &quot;/&quot;:
+                res /= float(i)
+        else:
+            res = float(i)
+
+    print(&quot;\033[31;1m[%s]运算结果=\033[0m&quot; % formula, res)
+    return res
+
+
+def handle_minus_in_list(operator_list, calc_list):
+    '''有的时候把算术符和值分开后,会出现这种情况  ['-', '-', '-'] [' ', '14969037.996825399 ', ' ', '12.0/ 10.0 ']
+       这需要把第2个列表中的空格都变成负号并与其后面的值拼起来,恶心死了
+    '''
+    for index, i in enumerate(calc_list):
+        if i == '':  # 它其实是代表负号,改成负号
+            calc_list[index + 1] = i + calc_list[index + 1].strip()
+
+
+def handle_special_occactions(plus_and_minus_operators, multiply_and_dividend):
+    '''有时会出现这种情况 , ['-', '-'] ['1 ', ' 2 * ', '14969036.7968254'],2*...后面这段实际是 2*-14969036.7968254,需要特别处理下,太恶心了'''
+    for index, i in enumerate(multiply_and_dividend):
+        i = i.strip()
+        if i.endswith(&quot;*&quot;) or i.endswith(&quot;/&quot;):
+            multiply_and_dividend[index] = multiply_and_dividend[index] + plus_and_minus_operators[index] + \
+                                           multiply_and_dividend[index + 1]
+            del multiply_and_dividend[index + 1]
+            del plus_and_minus_operators[index]
+    return plus_and_minus_operators, multiply_and_dividend
+
+
+def compute(formula):
+    '''这里计算是的不带括号的公式'''
+
+    formula = formula.strip(&quot;()&quot;)  # 去除外面包的拓号
+    print(formula)
+    formula = remove_duplicates(formula)  # 去除外重复的+-号
+    plus_and_minus_operators = re.findall(&quot;[+-]&quot;, formula)
+    multiply_and_dividend = re.split(&quot;[+-]&quot;, formula)  # 取出乘除公式
+    print(multiply_and_dividend)
+    if len(multiply_and_dividend[0].strip()) == 0:  # 代表这肯定是个减号
+        multiply_and_dividend[1] = plus_and_minus_operators[0] + multiply_and_dividend[1]
+        del multiply_and_dividend[0]
+        del plus_and_minus_operators[0]
+
+    plus_and_minus_operators, multiply_and_dividend = handle_special_occactions(plus_and_minus_operators,
+                                                                                multiply_and_dividend)
+    for index, i in enumerate(multiply_and_dividend):
+        if re.search(&quot;[*/]&quot;, i):
+            sub_res = compute_mutiply_and_dividend(i)
+            multiply_and_dividend[index] = sub_res
+
+    # 开始运算+,-
+    print(multiply_and_dividend, plus_and_minus_operators)
+    total_res = None
+    for index, item in enumerate(multiply_and_dividend):
+        if total_res:  # 代表不是第一次循环
+            if plus_and_minus_operators[index - 1] == '+':
+                total_res += float(item)
+            elif plus_and_minus_operators[index - 1] == '-':
+                total_res -= float(item)
+        else:
+            total_res = float(item)
+    print(&quot;\033[32;1m[%s]运算结果:\033[0m&quot; % formula, total_res)
+    return total_res
+
+
+def calc(formula):
+    '''计算程序主入口, 主要逻辑是先计算拓号里的值,算出来后再算乘除,再算加减'''
+    parenthesise_flag = True
+    calc_res = None  # 初始化运算结果为None,还没开始运算呢,当然为None啦
+    while parenthesise_flag:
+        m = re.search(&quot;\([^()]*\)&quot;, formula)  # 找到最里层的拓号
+        if m:
+            # print(&quot;先算括号里的值:&quot;,m.group())
+            sub_res = compute(m.group())
+            formula = formula.replace(m.group(), str(sub_res))
+        else:
+            print('\033[41;1m----没括号了...---\033[0m')
+
+            print('\n\n\033[42;1m最终结果:\033[0m', compute(formula))
+            parenthesise_flag = False  # 代表公式里的拓号已经都被剥除啦
+
+
+if __name__ == '__main__':
+    # res = calc(&quot;1 - 2 * ( (60-30 +(-40/5) * (9-2*5/3 + 7 /3*99/4*2998 +10 * 568/14 )) - (-4*3)/ (16-3*2) )&quot;)
+    res = calc(
+        &quot;1 - 2 * ( (60-30 +(-9-2-5-2*3-5/3-40*4/2-3/5+6*3) * (-9-2-5-2*5/3 + 7 /3*99/4*2998 +10 * 568/14 )) - (-4*3)/ (16-3*2) )&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../python_develop/day5/homework/oldboy_calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="117" column="18" lean-forward="true" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="108" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day5/homework/mian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="22" column="57" lean-forward="true" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/homework/math.py" />
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/homework/school_system/db/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day5/shelve_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/homework/school_system/core/make_pickle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/homework/ReadMe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day6/homework/choose_course/db/class.py" />
+    <entry file="file://$PROJECT_DIR$/day6/homework/choose_course/db/school/school" />
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/homework/school_system/docs/流程图.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/homework/school_system/core/course.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/homework/school_system/core/member.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/homework/school_system/core/classse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/homework/school_system/core/student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#15#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/homework/school_system/core/school.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="66" column="42" lean-forward="true" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/homework/school_system/core/teacher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/多继承.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/继承_学校.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/继承.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/多态.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day7/静态方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day7/类的特殊成员方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/homework/school_system/bin/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day7/type构造类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day7/异常处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day7/自定异常.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="398" column="8" lean-forward="true" selection-start-line="398" selection-start-column="8" selection-end-line="398" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="524" column="28" lean-forward="true" selection-start-line="524" selection-start-column="28" selection-end-line="524" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day6/cs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day7/socket_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day7/动态导入模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day8/socket_ssh_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day8/socket_ssh_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day5/hashlib_sha256.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day7/socket_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/homework/userfile.py" />
+    <entry file="file://$PROJECT_DIR$/../python_develop/day8/homework/socket_ftp_client/bin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/homework/socket_ftp_client/data.py" />
+    <entry file="file://$PROJECT_DIR$/../python_develop/day4/序列化和反序列化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/Lib/socketserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="649" selection-start-line="649" selection-end-line="649" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/homework/socke_ftp_server/userfile/haha/main.py" />
+    <entry file="file://$PROJECT_DIR$/../python_develop/day8/homework/socke_ftp_server/userfile/haha/userinfo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="65" selection-start-column="65" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day8/socket_ftp_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day8/socket_ftp_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day8/homework/socke_ftp_server/userfile/enen/userinfo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="112" lean-forward="true" selection-start-column="112" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day7/反射.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day8/socket_tps_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day8/homework/socket_ftp_client/bin/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="151" column="13" selection-start-line="151" selection-start-column="13" selection-end-line="151" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day8/homework/ReadMe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python_develop/day8/homework/socke_ftp_server/bin/mian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="94" column="22" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

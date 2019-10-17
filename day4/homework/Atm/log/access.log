@@ -1,0 +1,34 @@
+2019-08-15 16:53:54,220 - access - ERROR - account [None] too many login attempts
+2019-08-15 16:55:56,804 - access - ERROR - account [1] too many login attempts
+2019-08-15 21:03:41,842 - access - ERROR - account [123] too many login attempts
+2019-08-15 21:40:25,694 - access - INFO - [32;1maccount:123   action:repay    amount:2.0   interest:0.0[0m
+2019-08-15 21:45:00,326 - access - INFO - [32;1maccount:123   action:withdraw    amount:20.0   interest:1.0[0m
+2019-08-15 21:45:17,379 - access - INFO - [32;1maccount:123   action:withdraw    amount:200.0   interest:10.0[0m
+2019-08-15 21:45:39,076 - access - INFO - [32;1maccount:123   action:withdraw    amount:1.0   interest:0.05[0m
+2019-08-15 21:46:00,849 - access - INFO - [32;1maccount:123   action:repay    amount:500.0   interest:0.0[0m
+2019-08-15 21:48:04,653 - access - INFO - [32;1maccount:123   action:withdraw    amount:6.0   interest:0.30000000000000004[0m
+2019-08-15 21:57:00,992 - access - INFO - [32;1maccount:123   action:withdraw    amount:200.0   interest:10.0[0m
+2019-08-15 21:57:29,769 - access - INFO - [32;1maccount:123   action:repay    amount:20000.0   interest:0.0[0m
+2019-08-15 21:57:39,742 - access - INFO - [32;1maccount:123   action:repay    amount:1.0   interest:0.0[0m
+2019-08-15 21:58:06,296 - access - INFO - [32;1maccount:123   action:withdraw    amount:1.0   interest:0.05[0m
+2019-08-15 22:03:18,972 - access - INFO - [32;1maccount:123   action:repay    amount:1.0   interest:0.0[0m
+2019-08-15 22:03:24,800 - access - INFO - [32;1maccount:123   action:repay    amount:22.0   interest:0.0[0m
+2019-08-15 22:03:30,979 - access - INFO - [32;1maccount:123   action:repay    amount:111.0   interest:0.0[0m
+2019-08-15 22:03:50,923 - access - INFO - [32;1maccount:123   action:withdraw    amount:1.0   interest:0.05[0m
+2019-08-15 22:03:54,732 - access - INFO - [32;1maccount:123   action:withdraw    amount:1.0   interest:0.05[0m
+2019-08-15 22:03:59,872 - access - INFO - [32;1maccount:123   action:withdraw    amount:1.0   interest:0.05[0m
+2019-08-15 22:04:03,029 - access - INFO - [32;1maccount:123   action:withdraw    amount:22.0   interest:1.1[0m
+2019-08-15 22:38:03,480 - access - ERROR - account [] too many login attempts
+2019-08-15 22:40:18,855 - access - INFO - [32;1maccount:123   action:transfer    amount:500.0   interest:25.0[0m
+2019-08-15 22:41:33,720 - access - INFO - [32;1maccount:123   action:transfer    amount:80.0   interest:4.0[0m
+2019-08-15 22:43:54,430 - access - INFO - [32;1maccount:123   action:transfer    amount:70.0   interest:3.5[0m
+2019-08-15 22:44:46,282 - access - INFO - [32;1maccount:123   action:transfer    amount:40.0   interest:2.0[0m
+2019-08-15 22:45:03,055 - access - INFO - [32;1maccount:123   action:transfer    amount:25.0   interest:1.25[0m
+2019-08-16 15:10:16,268 - access - INFO - [32;1maccount:123   action:consume    amount:21.0   interest:0.0[0m
+2019-08-16 15:19:11,028 - access - INFO - [32;1maccount:123   action:consume    amount:40.0   interest:0.0[0m
+2019-08-16 15:20:33,872 - access - INFO - [32;1maccount:123   action:consume    amount:8.0   interest:0.0[0m
+2019-08-16 15:21:02,179 - access - INFO - [32;1maccount:123   action:consume    amount:3004.0   interest:0.0[0m
+2019-08-16 15:21:08,317 - access - INFO - [32;1maccount:123   action:consume    amount:3004.0   interest:0.0[0m
+2019-08-16 15:22:34,096 - access - INFO - [32;1maccount:123   action:consume    amount:5.0   interest:0.0[0m
+2019-08-16 15:22:57,270 - access - INFO - [32;1maccount:123   action:consume    amount:8.0   interest:0.0[0m
+2019-08-16 15:29:08,103 - access - INFO - [32;1maccount:123   action:consume    amount:3020.0   interest:0.0[0m
